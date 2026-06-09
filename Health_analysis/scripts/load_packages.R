@@ -1,0 +1,8 @@
+library(lme4)
+library(tidyverse)
+library(lubridate)
+library(ggplot2)
+library(ggeffects)
+library(FactoMineR)
+library(factoextra)
+library(mgcv)
